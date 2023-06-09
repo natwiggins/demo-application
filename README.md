@@ -20,7 +20,7 @@ yarn
 yarn dev
 ```
 
-3) Make sure the correct environment variables are set:
+3) Make sure the correct environment variables are set (RANDOM):
 
 ```bash
 cp .env.example .env
